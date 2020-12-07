@@ -1,0 +1,87 @@
+body {
+  overflow: hidden;
+}
+
+.side_bar {
+  background-color: #888888;
+  position: absolute;
+  width: 4.5%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+}
+
+.settings_button {
+  position: relative;
+  top: 93%;
+  left: 17%;
+  border: none;
+  background-color: inherit;
+}
+
+.connection_button {
+  position: relative;
+  top: 81%;
+  left: 18%;
+  border: none;
+  background-color: inherit;
+}
+
+.download_section {
+  position: absolute;
+  top: 9.8%;
+  left: 34.8%;
+  width: 45.8%;
+  height: 11.7%;
+}
+
+.download_button {
+  position: relative;
+  width: 70%;
+  height: 100%;
+  border: none;
+  background-color: #c4c4c4;
+  color: #4d4d4d;
+}
+
+.download_link {
+  position: relative;
+  top: 4%;
+  left: auto;
+  text-decoration: none;
+  color: #4d4d4d;
+  font-size: 280%;
+}
+
+.table_sections {
+  position: absolute;
+  top: 32.2%;
+  left: 36.6%;
+  width: 27.8%;
+  height: 48.5%;
+}
+
+.table_left {
+  position: relative;
+  right: 15%;
+  border-right-color: solid black;
+  border-right-width: 2px;
+  margin: auto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  font-family: monospace;
+  line-height: 32px;
+}
+
+.table_right {
+  position: relative;
+  left: 15%;
+  bottom: 47.5%;
+  border-left-color: solid black;
+  border-left-width: 2px;
+  margin: auto;
+  font-size: 24px;
+  font-family: monospace;
+  line-height: 32px;
+}

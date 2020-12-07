@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Sensor Scrypt/Sensor Scrypt.csproj",
+                "${workspaceFolder}/Sensor Scrypt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Sensor Scrypt/Sensor Scrypt.csproj",
+                "${workspaceFolder}/Sensor Scrypt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Sensor Scrypt/Sensor Scrypt.csproj",
+                "${workspaceFolder}/Sensor Scrypt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

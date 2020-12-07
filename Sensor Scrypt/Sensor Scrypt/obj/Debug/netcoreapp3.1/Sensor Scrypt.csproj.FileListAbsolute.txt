@@ -1,0 +1,13 @@
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.exe
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.deps.json
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.runtimeconfig.json
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.runtimeconfig.dev.json
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.dll
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\bin\Debug\netcoreapp3.1\Sensor Scrypt.pdb
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.csprojAssemblyReference.cache
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.AssemblyInfoInputs.cache
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.AssemblyInfo.cs
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.dll
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.pdb
+C:\Users\kubaj\OneDrive - Politechnika Warszawska\Documents\App Development\Sensor Scrypt\Sensor Scrypt\obj\Debug\netcoreapp3.1\Sensor Scrypt.genruntimeconfig.cache

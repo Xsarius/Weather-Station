@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Sensor Scrypt/bin/Debug/netcoreapp3.1/Sensor Scrypt.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/Sensor Scrypt.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Sensor Scrypt",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
